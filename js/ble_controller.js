@@ -1,6 +1,6 @@
 class BleController extends EventTarget {
 
-  static CONTROLLER_SERVICE = 'ecceef7c-2d85-4b1a-889b-5dd536de1d38';
+  static CONTROLLER_SERVICE = 'af86fd1e-91f8-4c55-9001-bcce653f7737';
   static TOUCH_CHARACTERISTIC = 'ce8ec8f3-b582-4928-9db0-f6626f8b87c9';
 
   constructor() {
